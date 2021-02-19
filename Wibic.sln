@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawIntrinsics", "RawIntrinsics\RawIntrinsics.csproj", "{2C8F57F8-6560-42F3-A24C-C649FA350F72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawIntrinsicsGenerator", "RawIntrinsicsGenerator\RawIntrinsicsGenerator.csproj", "{A701F8FF-AA1F-4F24-ADC7-7DFB7D0E7EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C8F57F8-6560-42F3-A24C-C649FA350F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8F57F8-6560-42F3-A24C-C649FA350F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8F57F8-6560-42F3-A24C-C649FA350F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8F57F8-6560-42F3-A24C-C649FA350F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A701F8FF-AA1F-4F24-ADC7-7DFB7D0E7EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A701F8FF-AA1F-4F24-ADC7-7DFB7D0E7EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A701F8FF-AA1F-4F24-ADC7-7DFB7D0E7EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A701F8FF-AA1F-4F24-ADC7-7DFB7D0E7EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
